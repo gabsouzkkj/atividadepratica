@@ -42,7 +42,7 @@ body * {
   width: 296px;
   height: 288px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 #linha > img {
